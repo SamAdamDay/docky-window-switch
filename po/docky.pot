@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-05 06:53-0600\n"
+"POT-Creation-Date: 2011-03-05 17:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -525,44 +525,48 @@ msgstr ""
 msgid "Zoom size"
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:148
+#: ../Docky/Docky/ConfigurationWindow.cs:269
 msgid "Search Docklets..."
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:164
+#: ../Docky/Docky/ConfigurationWindow.cs:285
 msgid "Search Helpers..."
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:228
+#: ../Docky/Docky/ConfigurationWindow.cs:362
 msgid "Click on any dock to configure."
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:229
+#: ../Docky/Docky/ConfigurationWindow.cs:363
 msgid "Drag any dock to reposition."
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:294
+#: ../Docky/Docky/ConfigurationWindow.cs:384
+msgid "Helpers require DockManager be installed."
+msgstr ""
+
+#: ../Docky/Docky/ConfigurationWindow.cs:456
 msgid "Delete the currently selected dock?"
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:296
+#: ../Docky/Docky/ConfigurationWindow.cs:458
 msgid ""
 "If you choose to delete the dock, all settings\n"
 "for the deleted dock will be permanently lost."
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:303
+#: ../Docky/Docky/ConfigurationWindow.cs:465
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:457
 msgid "_Delete Dock"
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:419
-#: ../Docky/Docky/ConfigurationWindow.cs:439
+#: ../Docky/Docky/ConfigurationWindow.cs:581
+#: ../Docky/Docky/ConfigurationWindow.cs:601
 msgid "_Select"
 msgstr ""
 
-#: ../Docky/Docky/ConfigurationWindow.cs:422
-#: ../Docky/Docky/ConfigurationWindow.cs:442
+#: ../Docky/Docky/ConfigurationWindow.cs:584
+#: ../Docky/Docky/ConfigurationWindow.cs:604
 msgid ".tar Archives"
 msgstr ""
 
@@ -642,28 +646,28 @@ msgid ""
 "added to this dock."
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockPreferences.cs:679
+#: ../Docky/Docky/Interface/DockPreferences.cs:709
 msgid "<i>Never hides; maximized windows do not overlap the dock.</i>"
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockPreferences.cs:682
+#: ../Docky/Docky/Interface/DockPreferences.cs:712
 msgid "<i>Hides whenever the mouse is not over it.</i>"
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockPreferences.cs:685
+#: ../Docky/Docky/Interface/DockPreferences.cs:715
 msgid "<i>Hides when dock obstructs the active application.</i>"
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockPreferences.cs:688
+#: ../Docky/Docky/Interface/DockPreferences.cs:718
 msgid "<i>Hides when dock obstructs any window.</i>"
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockWindow.cs:378
+#: ../Docky/Docky/Interface/DockWindow.cs:380
 msgid "Drag to reposition"
 msgstr ""
 
-#: ../Docky/Docky/Interface/DockWindow.cs:390
-#: ../Docky/Docky/Interface/DockWindow.cs:404
+#: ../Docky/Docky/Interface/DockWindow.cs:392
+#: ../Docky/Docky/Interface/DockWindow.cs:406
 msgid "Drop to add to dock"
 msgstr ""
 
@@ -1033,7 +1037,7 @@ msgstr ""
 msgid "Network Error"
 msgstr ""
 
-#: ../StandardPlugins/GMail/src/GMailAtom.cs:295
+#: ../StandardPlugins/GMail/src/GMailAtom.cs:296
 msgid "General Error"
 msgstr ""
 
@@ -1163,19 +1167,19 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:91
+#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:84
 msgid "_Clear Recent Documents..."
 msgstr ""
 
-#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:102
+#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:95
 msgid "Clear the Recent Documents list?"
 msgstr ""
 
-#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:104
+#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:97
 msgid "Clear Recent Documents"
 msgstr ""
 
-#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:106
+#: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:99
 msgid ""
 "If you clear the Recent Documents list, you clear the following:\n"
 "• All items from the Places → Recent Documents menu item.\n"
@@ -1420,20 +1424,21 @@ msgid "T_omorrow"
 msgstr ""
 
 #. draw humidity
-#: ../StandardPlugins/Weather/src/WeatherPainter.cs:328
+#: ../StandardPlugins/Weather/src/WeatherPainter.cs:410
+#: ../StandardPlugins/Weather/src/WeatherPainter.cs:496
 #, csharp-format
 msgid "{0} humidity"
 msgstr ""
 
-#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:70
-#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:220
+#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:71
+#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:221
 msgid "Switch Desks"
 msgstr ""
 
-#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:171
+#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:172
 msgid "Desk"
 msgstr ""
 
-#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:173
+#: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:174
 msgid "Virtual Desk"
 msgstr ""
