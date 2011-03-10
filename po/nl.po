@@ -15,16 +15,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-03-05 16:32+0000\n"
-"X-Generator: Launchpad (build 12515)\n"
+"X-Launchpad-Export-Date: 2011-03-10 11:01+0000\n"
+"X-Generator: Launchpad (build 12559)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "De beste dock die je niet kunt kopen."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
-msgstr ""
+msgstr "Een lijst van plug-ins die in dit dock actief zijn."
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
@@ -44,11 +44,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "Verander dit niet!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
-msgstr ""
+msgstr "Pictogramgrootte"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
@@ -84,11 +84,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:16
 msgid "GMail labels to check"
-msgstr ""
+msgstr "Te controlereren GMail-labels"
 
 #: ../data/docky.schemas.in.h:17
 msgid "GMail username"
-msgstr ""
+msgstr "GMail gebruikersnaam"
 
 #: ../data/docky.schemas.in.h:18
 msgid ""
@@ -106,7 +106,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:21
 msgid "How many recent clipboard selections to show."
-msgstr ""
+msgstr "Te tonen aantal recente klembordselecties."
 
 #: ../data/docky.schemas.in.h:22
 msgid ""
@@ -631,11 +631,11 @@ msgstr "Over deze helper"
 
 #: ../Docky/Docky/HelperTile.cs:72
 msgid "Enable this helper"
-msgstr "Activeer deze helper"
+msgstr "Deze helper activeren"
 
 #: ../Docky/Docky/HelperTile.cs:73
 msgid "Disable this helper"
-msgstr "De-activeer deze helper"
+msgstr "Deze helper de-activeren"
 
 #: ../Docky/Docky/HelperTile.cs:90
 msgid "Running"

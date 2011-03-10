@@ -16,12 +16,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "(n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2011-03-05 16:32+0000\n"
-"X-Generator: Launchpad (build 12515)\n"
+"X-Launchpad-Export-Date: 2011-03-10 11:01+0000\n"
+"X-Generator: Launchpad (build 12559)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "Geriausio skydelio nenupirksi už jokius pinigus"
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
@@ -29,15 +29,15 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
-msgstr ""
+msgstr "Analoginio laikrodžio tema"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
-msgstr ""
+msgstr "Išvalyti pasibaigusius laikmačius"
 
 #: ../data/docky.schemas.in.h:4
 msgid "Currently selected item"
-msgstr ""
+msgstr "Dabar pažymėtas elementas"
 
 #: ../data/docky.schemas.in.h:5
 msgid "Dismiss a stopped timer when clicked"
@@ -45,27 +45,27 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "Nekeisti šio!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
-msgstr ""
+msgstr "Skydelio piktogramų dydis"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "Skydelis yra 3D"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
-msgstr ""
+msgstr "Skydelis tvarko visus langus"
 
 #: ../data/docky.schemas.in.h:10
 msgid "Dock zooms"
-msgstr ""
+msgstr "Skydelio išdidinimai"
 
 #: ../data/docky.schemas.in.h:11
 msgid "Dock's hiding mode"
-msgstr ""
+msgstr "Skydelio slepimosi veiksena"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
@@ -73,23 +73,23 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:13
 msgid "Docky item hover text"
-msgstr ""
+msgstr "Docky elemento hover tekstas"
 
 #: ../data/docky.schemas.in.h:14
 msgid "Docky item hue"
-msgstr ""
+msgstr "Skydelio elemento atspalvis"
 
 #: ../data/docky.schemas.in.h:15
 msgid "Fade when hiding"
-msgstr ""
+msgstr "Pranykti kai slepiamasi"
 
 #: ../data/docky.schemas.in.h:16
 msgid "GMail labels to check"
-msgstr ""
+msgstr "GMail tikrintinos etiketės"
 
 #: ../data/docky.schemas.in.h:17
 msgid "GMail username"
-msgstr ""
+msgstr "GMail naudotojo vardas"
 
 #: ../data/docky.schemas.in.h:18
 msgid ""
@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:19
 msgid "How long to wait (ms) before unhiding"
-msgstr ""
+msgstr "Laukti (ms) iki pasirodymo"
 
 #: ../data/docky.schemas.in.h:20
 msgid "How long to wait (ms) to update after a window switch"
@@ -117,15 +117,15 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:23
 msgid "How often (in mins) to check for new mail."
-msgstr ""
+msgstr "Kaip dažnai (minutėmis) ieškoti naujų laiškų."
 
 #: ../data/docky.schemas.in.h:24
 msgid "How often to check"
-msgstr ""
+msgstr "Kaip dažnai tikrinti"
 
 #: ../data/docky.schemas.in.h:25
 msgid "How often to check for new weather information."
-msgstr ""
+msgstr "Kaip dažnai tikrinti orų prognozės informaciją."
 
 #: ../data/docky.schemas.in.h:26
 msgid "How often to poll (in ms) for new clipboard data."
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:32
 msgid "If the dock is a panel"
-msgstr ""
+msgstr "Jei skydelis yra panelė"
 
 #: ../data/docky.schemas.in.h:33
 msgid ""
@@ -275,15 +275,15 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:57
 msgid "Last time checked"
-msgstr ""
+msgstr "Paskutinį kartą tikrinta"
 
 #: ../data/docky.schemas.in.h:58
 msgid "List of NPR stations to display."
-msgstr ""
+msgstr "Rodomų NPR stočių sąrašas"
 
 #: ../data/docky.schemas.in.h:59
 msgid "List of active docks"
-msgstr ""
+msgstr "Aktyvių skydelių sąrašas"
 
 #: ../data/docky.schemas.in.h:60
 msgid "List of custom GMail labels to check in addition to the inbox."
@@ -291,31 +291,31 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:61
 msgid "List of launchers"
-msgstr ""
+msgstr "Leistukų sąrašas"
 
 #: ../data/docky.schemas.in.h:62
 msgid "Max Entries"
-msgstr ""
+msgstr "Daugiausiai įrašų"
 
 #: ../data/docky.schemas.in.h:63
 msgid "NPR stations"
-msgstr ""
+msgstr "NPR stotys"
 
 #: ../data/docky.schemas.in.h:64
 msgid "New timer length"
-msgstr ""
+msgstr "Naujo laikmačio ilgis"
 
 #: ../data/docky.schemas.in.h:65
 msgid "Number of recent docs"
-msgstr ""
+msgstr "Skaičius naujausių dokumentų"
 
 #: ../data/docky.schemas.in.h:66
 msgid "Opacity to fade to"
-msgstr ""
+msgstr "Permatomumas iki kurio pranykti"
 
 #: ../data/docky.schemas.in.h:67
 msgid "Plugins on this dock"
-msgstr ""
+msgstr "Įskiepiai šiame skydelyje"
 
 #: ../data/docky.schemas.in.h:68
 msgid "Prevent adding items by drops"
@@ -343,11 +343,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:74
 msgid "Show a notify for unread mail"
-msgstr ""
+msgstr "Rodyti žinutę apie neskaitytą el. paštą"
 
 #: ../data/docky.schemas.in.h:75
 msgid "Show date"
-msgstr ""
+msgstr "Rodyti datą"
 
 #: ../data/docky.schemas.in.h:76
 msgid "Show hover text labels for launchers"
@@ -359,15 +359,15 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:78
 msgid "Show most recent doc"
-msgstr ""
+msgstr "Rodyti vėliausiai"
 
 #: ../data/docky.schemas.in.h:79
 msgid "Show the Docky item"
-msgstr ""
+msgstr "Rodyti Docky elementą"
 
 #: ../data/docky.schemas.in.h:80
 msgid "Show the digital clock"
-msgstr ""
+msgstr "Rodyti skaitmeninį laikrodį"
 
 #: ../data/docky.schemas.in.h:81
 msgid "Show windows from only current desktop"
@@ -375,19 +375,19 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:82
 msgid "Sorts the items on the dock"
-msgstr ""
+msgstr "Rikiuoti elementus skydelyje."
 
 #: ../data/docky.schemas.in.h:83
 msgid "Start all new timers"
-msgstr ""
+msgstr "Paleisti visus naujus laikmačius"
 
 #: ../data/docky.schemas.in.h:84
 msgid "Stop items from dragging"
-msgstr ""
+msgstr "Neleisti tampyti elementų"
 
 #: ../data/docky.schemas.in.h:85
 msgid "The GMail username to check."
-msgstr ""
+msgstr "GMail naudotojo vardas tikrinimui."
 
 #: ../data/docky.schemas.in.h:86
 msgid ""
@@ -397,7 +397,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:87
 msgid "The current theme"
-msgstr ""
+msgstr "Aktyvi tema"
 
 #: ../data/docky.schemas.in.h:88
 msgid "The currently selected item in the session manager menu."
@@ -415,7 +415,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:91
 msgid "The dock's position"
-msgstr ""
+msgstr "Skydelio pozicija"
 
 #: ../data/docky.schemas.in.h:92
 msgid ""
@@ -437,7 +437,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:96
 msgid "The name of the current Docky theme."
-msgstr ""
+msgstr "Dabartinės Docky temos pavadinimas."
 
 #: ../data/docky.schemas.in.h:97
 msgid "The name of the weather source to get weather information from."
@@ -449,7 +449,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:99
 msgid "The size of icons on the dock."
-msgstr ""
+msgstr "Piktogramų dydis skydelyje"
 
 #: ../data/docky.schemas.in.h:100
 msgid "The text to show when hovering the Docky item."
@@ -461,7 +461,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:102
 msgid "The weather source"
-msgstr ""
+msgstr "Orų šaltinis"
 
 #: ../data/docky.schemas.in.h:103
 msgid "This is the list of all the launchers on this dock."
@@ -489,11 +489,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:108
 msgid "Timer Delay"
-msgstr ""
+msgstr "Laikmačio užlaikymas"
 
 #: ../data/docky.schemas.in.h:109
 msgid "Track Mouse Selections"
-msgstr ""
+msgstr "Sekti pelės pažymėjimus"
 
 #: ../data/docky.schemas.in.h:110
 msgid "Urgent indicator color shift"
@@ -505,11 +505,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:112
 msgid "Use 24-hr time"
-msgstr ""
+msgstr "Naudoto 24 valandų formatą"
 
 #: ../data/docky.schemas.in.h:113
 msgid "Use metric units"
-msgstr ""
+msgstr "Naudoti metrinę sistemą"
 
 #: ../data/docky.schemas.in.h:114
 msgid "Used to sort the items on the dock."
@@ -517,7 +517,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:115
 msgid "Weather locations"
-msgstr ""
+msgstr "Orų vietos"
 
 #: ../data/docky.schemas.in.h:116
 msgid "Which monitor the dock is on"
@@ -525,7 +525,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:117
 msgid "Zoom size"
-msgstr ""
+msgstr "Priartinimo dydis"
 
 #: ../Docky/Docky/ConfigurationWindow.cs:269
 msgid "Search Docklets..."
@@ -578,41 +578,43 @@ msgstr "Autorius"
 
 #: ../Docky/Docky/DockletTile.cs:84
 msgid "Move this docklet up on the selected dock"
-msgstr ""
+msgstr "Perkelti šį įskiepį aukštyn pažymėtame skydelyje"
 
 #: ../Docky/Docky/DockletTile.cs:85
 msgid "Move this docklet down on the selected dock"
-msgstr ""
+msgstr "Perkelti šį įskiepį į apačią pažymėtame skydelyje"
 
 #: ../Docky/Docky/DockletTile.cs:89
 msgid "Move this docklet left on the selected dock"
-msgstr ""
+msgstr "Perkelti šį įskiepį į kairę pažymėtame skydelyje"
 
 #: ../Docky/Docky/DockletTile.cs:90
 msgid "Move this docklet right on the selected dock"
-msgstr ""
+msgstr "Perkelti šį įskiepį dešiniau pažymėtame skydelyje"
 
 #: ../Docky/Docky/DockletTile.cs:92
 msgid "Configure this docklet"
-msgstr ""
+msgstr "Konfigūruoti šį skydelį"
 
 #: ../Docky/Docky/DockletTile.cs:93
 msgid "About this docklet"
-msgstr ""
+msgstr "Apie šį skydelį"
 
 #: ../Docky/Docky/DockletTile.cs:94
 msgid "Add this docklet to the selected dock"
-msgstr ""
+msgstr "Įdėti šį įskiepį į pažymėtą skydelį"
 
 #: ../Docky/Docky/DockletTile.cs:95
 msgid "Remove this docklet from the selected dock"
-msgstr ""
+msgstr "Pašalinti šį įskiepį iš pasirinkto skydelio"
 
 #: ../Docky/Docky/Docky.cs:141
 msgid ""
 "Docky requires compositing to work properly. Certain options are disabled "
 "and themes/animations will look incorrect. "
 msgstr ""
+"Docky reikalingas tinkamas kompozicionavimo darbas. Tam tikri pasirinkimai "
+"yra išjungti ir temos/animacijos atrodys neteisingai. "
 
 #: ../Docky/Docky/HelperTile.cs:42
 msgid "Status"
@@ -624,15 +626,15 @@ msgstr "Išdiegti"
 
 #: ../Docky/Docky/HelperTile.cs:71
 msgid "About this helper"
-msgstr ""
+msgstr "Apie šį pagalbininką"
 
 #: ../Docky/Docky/HelperTile.cs:72
 msgid "Enable this helper"
-msgstr ""
+msgstr "Įjungti šį pagalbininką"
 
 #: ../Docky/Docky/HelperTile.cs:73
 msgid "Disable this helper"
-msgstr ""
+msgstr "Išjungti šį pagalbininką"
 
 #: ../Docky/Docky/HelperTile.cs:90
 msgid "Running"
@@ -647,31 +649,33 @@ msgid ""
 "When set, windows which do not already have launchers on a dock will be "
 "added to this dock."
 msgstr ""
+"Kai pasirinkta, langai, kurie neturi leistuko skydelyje bus pridėti į šį "
+"skydelį."
 
 #: ../Docky/Docky/Interface/DockPreferences.cs:709
 msgid "<i>Never hides; maximized windows do not overlap the dock.</i>"
-msgstr ""
+msgstr "<i>Niekada nesislepia; išdidinti langai neuždengia skydelio.</i>"
 
 #: ../Docky/Docky/Interface/DockPreferences.cs:712
 msgid "<i>Hides whenever the mouse is not over it.</i>"
-msgstr ""
+msgstr "<i>Pasislepia jei nėra virš jo kursoriaus.</i>"
 
 #: ../Docky/Docky/Interface/DockPreferences.cs:715
 msgid "<i>Hides when dock obstructs the active application.</i>"
-msgstr ""
+msgstr "<i>Slepiasi kai skydelis trukdo aktyviai programai.</i>"
 
 #: ../Docky/Docky/Interface/DockPreferences.cs:718
 msgid "<i>Hides when dock obstructs any window.</i>"
-msgstr ""
+msgstr "<i>Slepiasi kai skydelis trukdo bet kuriam langui.</i>"
 
 #: ../Docky/Docky/Interface/DockWindow.cs:380
 msgid "Drag to reposition"
-msgstr ""
+msgstr "Temkite skydelį į norimą poziciją"
 
 #: ../Docky/Docky/Interface/DockWindow.cs:392
 #: ../Docky/Docky/Interface/DockWindow.cs:406
 msgid "Drop to add to dock"
-msgstr ""
+msgstr "Paleiskie, kad įdėti į skydelį"
 
 #: ../Docky/Docky/Items/DockyItem.cs:132
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:160
@@ -690,15 +694,15 @@ msgstr "_Pagalba"
 
 #: ../Docky/Docky/Items/DockyItem.cs:136
 msgid "_Quit Docky"
-msgstr ""
+msgstr "_Išjungti Docky"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:96
 msgid "Docky Settings"
-msgstr ""
+msgstr "Docky nustatymai"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:141
 msgid "_Start When User Logs In"
-msgstr ""
+msgstr "_Paleisti Docky kaip prisijungiama"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:157
 msgid "_Theme:"
@@ -715,11 +719,11 @@ msgstr "<b>Bendri nustatymai</b>"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:227
 msgid "<b>Dock Configuration</b>"
-msgstr ""
+msgstr "<b>Skydelio Nustatymai</b>"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:241
 msgid "Docks"
-msgstr ""
+msgstr "Skydeliai"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:262
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:320
@@ -738,19 +742,19 @@ msgstr "Išjungti"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:296
 msgid "Docklets"
-msgstr ""
+msgstr "Įskiepiai"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:317
 msgid "Usable"
-msgstr ""
+msgstr "Naudojama"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:375
 msgid "Helpers"
-msgstr ""
+msgstr "Pagalbininkai"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:430
 msgid "_New Dock"
-msgstr ""
+msgstr "_Naujas skydelis"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:58
 msgid "None"
@@ -762,19 +766,19 @@ msgstr "Slėptis automatiškai"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:60
 msgid "Intellihide"
-msgstr ""
+msgstr "Intelektualus"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:61
 msgid "Window Dodge"
-msgstr ""
+msgstr "Vengiant langų"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:75
 msgid "_Fade On Hide"
-msgstr ""
+msgstr "_Pranykti slepiantis"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:119
 msgid "_Icon Size:"
-msgstr ""
+msgstr "_Piktogramų dydis:"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:132
 msgid "_Hiding:"
@@ -782,15 +786,15 @@ msgstr "_Slėpimasis:"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:142
 msgid "_Panel Mode"
-msgstr ""
+msgstr "_Pulto veiksena"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:156
 msgid "3D Back_ground"
-msgstr ""
+msgstr "3D Fo_nas"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:170
 msgid "_Manage Windows Without Launcher"
-msgstr ""
+msgstr "_Tvarkyti langus be leistuko"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:185
 msgid "_Zoom:"
@@ -799,7 +803,7 @@ msgstr "_Didinti:"
 #: ../Docky.Items/Docky.Items/AbstractDockItem.cs:120
 #, csharp-format
 msgid "Drop to open with {0}"
-msgstr ""
+msgstr "Paleisti kad atverti su {0}"
 
 #: ../Docky.Items/Docky.Items/ApplicationDockItem.cs:180
 msgid "New _Window"
@@ -813,45 +817,45 @@ msgstr "_Atverti"
 
 #: ../Docky.Items/Docky.Items/ColoredIconDockItem.cs:70
 msgid "_Reset Color"
-msgstr ""
+msgstr "Atstatyti spalvą"
 
 #: ../Docky.Items/Docky.Items/FileApplicationProvider.cs:482
 msgid "_Pin to Dock"
-msgstr ""
+msgstr "_Pritvirtinti prie skydelio"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:83
 #, csharp-format
 msgid "Drop to move to {0}"
-msgstr ""
+msgstr "Paleisti, kad perkelti į {0}"
 
 #. until we use a new version of GTK# which supports getting the GLib.Error code
 #. this is about the best we can do.
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:197
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:242
 msgid "Error performing drop action"
-msgstr ""
+msgstr "Klaida vykdant paleidimo veiksmą"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:197
 msgid "Not enough free space on destination."
-msgstr ""
+msgstr "Neužtenka laisvos erdvės tiksle."
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:214
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:217
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:249
 msgid "Complete"
-msgstr ""
+msgstr "Baigta"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:227
 msgid "Moving"
-msgstr ""
+msgstr "Perkeliama"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:233
 msgid "Copying"
-msgstr ""
+msgstr "Kopijuojama"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:268
 msgid "Open Containing _Folder"
-msgstr ""
+msgstr "_Atverti aplanką"
 
 #: ../Docky.Items/Docky.Items/WnckDockItem.cs:264
 msgid "Unma_ximize"
@@ -876,7 +880,7 @@ msgstr "_Užverti visus"
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:43
 #, csharp-format
 msgid "Sign up for {0}"
-msgstr ""
+msgstr "Registruotis {0}"
 
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:44
 msgid "Validating..."
@@ -885,19 +889,19 @@ msgstr "Tikrinama..."
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:45
 #, csharp-format
 msgid "Don't have {0}?"
-msgstr ""
+msgstr "Neturite {0}?"
 
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:46
 msgid "Account validation failed!"
-msgstr ""
+msgstr "Paskyros patikrinimas nepavyko!"
 
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:47
 msgid "Verify and save account information"
-msgstr ""
+msgstr "Patikrinti ir išsaugoti paskyros informaciją"
 
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:48
 msgid "Account validation succeeded!"
-msgstr ""
+msgstr "Paskyros patvirtinimas pavyko!"
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:87
 msgid "Password"
@@ -909,41 +913,43 @@ msgstr "Naudotojo vardas"
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:121
 msgid "<i>Verify and save account information</i>"
-msgstr ""
+msgstr "<i>Patikrinti ir išsaugoti paskyros informaciją</i>"
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:178
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Neturite paskyros?"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:98
 msgid "No Battery Found"
-msgstr ""
+msgstr "Baterija nerasta"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:111
 #, csharp-format
 msgid "{0} hour"
 msgid_plural "{0} hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} valanda"
+msgstr[1] "{0} valandos"
+msgstr[2] "{0} valandų"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:113
 #, csharp-format
 msgid "{0} minute"
 msgid_plural "{0} minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} minutė"
+msgstr[1] "{0} minutės"
+msgstr[2] "{0} minučių"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:115
 msgid "until charged "
-msgstr ""
+msgstr "iki pakrautos "
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:117
 msgid "remaining "
-msgstr ""
+msgstr "liko "
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:154
 msgid "_Statistics"
-msgstr ""
+msgstr "_Statistika"
 
 #: ../StandardPlugins/Bookmarks/src/BookmarksItemProvider.cs:85
 msgid "Computer"
@@ -951,7 +957,7 @@ msgstr "Kompiuteris"
 
 #: ../StandardPlugins/Clippy/src/ClippyItem.cs:88
 msgid "Clipboard is currently empty."
-msgstr ""
+msgstr "Mainų sritis yra tuščia."
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:431
 msgid "Di_gital Clock"
@@ -959,7 +965,7 @@ msgstr "Skaitmeninis _laikrodis"
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:437
 msgid "24-Hour _Clock"
-msgstr ""
+msgstr "24 valandų _laikrodis"
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:443
 msgid "Show _Date"
@@ -979,27 +985,27 @@ msgstr "Tema"
 
 #: ../StandardPlugins/Desktop/src/DesktopActionsProvider.cs:57
 msgid "_Undo"
-msgstr ""
+msgstr "_Atstatyti"
 
 #: ../StandardPlugins/Desktop/src/ShowDesktopItem.cs:37
 msgid "_Show Desktop"
-msgstr ""
+msgstr "Rodyti darbastalį"
 
 #: ../StandardPlugins/Desktop/src/TileDesktopItem.cs:38
 msgid "_Tile Desktop"
-msgstr ""
+msgstr "Išskleisti langus"
 
 #: ../StandardPlugins/Desktop/src/CascadeDesktopItem.cs:38
 msgid "_Cascade Desktop"
-msgstr ""
+msgstr "Išrikiuoti langus"
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:74
 msgid "_Add Label"
-msgstr ""
+msgstr "_Pridėti žymę"
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:113
 msgid "Check e_very:"
-msgstr ""
+msgstr "Patikrinti _kiekvieną:"
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:123
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:186
@@ -1008,26 +1014,26 @@ msgstr "min."
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:189
 msgid "Click to set username and password."
-msgstr ""
+msgstr "Spustelėkite nustatyti naudotojo vardą ir slaptažodį"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:246
 msgid "(no subject)"
-msgstr ""
+msgstr "(nėra temos)"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:260
 #, csharp-format
 msgid "You have {0} new, unread messages"
-msgstr ""
+msgstr "Turite {0} naujų, neskaitytų laiškų"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:264
 #, csharp-format
 msgid "From: {0}"
-msgstr ""
+msgstr "Nuo: {0}"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:278
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:281
 msgid "Feed Error"
-msgstr ""
+msgstr "Srauto klaida"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:285
 msgid "Invalid Username"
@@ -1045,22 +1051,23 @@ msgstr "Bendra klaida"
 
 #: ../StandardPlugins/GMail/src/GMailConfigDialog.cs:30
 msgid "Gmail Configuration"
-msgstr ""
+msgstr "Gmail nustatymai"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:95
 msgid "No unread mail"
-msgstr ""
+msgstr "Nėra neskaityto el. pašto"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:98
 #, csharp-format
 msgid "{0} unread message"
 msgid_plural "{0} unread messages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} neskaitytas laiškas"
+msgstr[1] "{0} neskaityti laiškai"
+msgstr[2] "{0} neskaitytų laiškų"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:119
 msgid "Checking mail..."
-msgstr ""
+msgstr "Ieškoma naujų laiškų..."
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:201
 msgid "_View "
@@ -1068,11 +1075,11 @@ msgstr "_Rodyti "
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:206
 msgid "_Compose Mail"
-msgstr ""
+msgstr "Rašyti _naują laišką"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:211
 msgid "View C_ontacts"
-msgstr ""
+msgstr "Žiūrėti kontaktus"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:218
 msgid "New Mail"
@@ -1084,11 +1091,11 @@ msgstr "_Tikrinti paštą"
 
 #: ../StandardPlugins/GMail/src/GMailLabelConfig.cs:36
 msgid "Labels"
-msgstr ""
+msgstr "Žymės"
 
 #: ../StandardPlugins/GMail/src/GMailLoginConfig.cs:37
 msgid "Gmail"
-msgstr ""
+msgstr "Gmail"
 
 #: ../StandardPlugins/GMail/src/GMailLoginConfig.cs:41
 msgid "Login"
@@ -1122,11 +1129,11 @@ msgstr "Atsijungta"
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:110
 #, csharp-format
 msgid "Connected: {0}"
-msgstr ""
+msgstr "Prisijungta: {0}"
 
 #: ../StandardPlugins/NPR/gtk-gui/NPR.StationSearchWidget.cs:47
 msgid "My _Stations"
-msgstr ""
+msgstr "Mano _Stotys"
 
 #: ../StandardPlugins/NPR/gtk-gui/NPR.StationSearchWidget.cs:78
 msgid "S_earch"
@@ -1134,20 +1141,20 @@ msgstr "_Paieška"
 
 #: ../StandardPlugins/NPR/src/Station.cs:72
 msgid "No stations found."
-msgstr ""
+msgstr "Nerasta stočių."
 
 #: ../StandardPlugins/NPR/src/Station.cs:73
 #: ../StandardPlugins/Weather/src/WeatherConfig.cs:90
 msgid "Please try your search again."
-msgstr ""
+msgstr "Prašome ieškoti dar kartą."
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:46
 msgid "Fetching Information..."
-msgstr ""
+msgstr "Gaunama informacija..."
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:72
 msgid "Click to add NPR stations."
-msgstr ""
+msgstr "Spustelėkite norėdami pridėti NPR stotis."
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:111
 msgid "Home Page"
@@ -1155,7 +1162,7 @@ msgstr "Namų puslapis"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:118
 msgid "Program Schedule"
-msgstr ""
+msgstr "Programos tvarkaraštis"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:125
 msgid "Donate"
@@ -1163,7 +1170,7 @@ msgstr "Paaukoti"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:132
 msgid "Live Streams"
-msgstr ""
+msgstr "Tiesioginės transliacijos"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:170
 msgid "Settings"
@@ -1171,7 +1178,7 @@ msgstr "Nustatymai"
 
 #: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:84
 msgid "_Clear Recent Documents..."
-msgstr ""
+msgstr "_Valyti paskiausius dokumentus..."
 
 #: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:95
 msgid "Clear the Recent Documents list?"
@@ -1179,7 +1186,7 @@ msgstr "Išvalyti paskutiniųjų dokumentų sąrašą?"
 
 #: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:97
 msgid "Clear Recent Documents"
-msgstr ""
+msgstr "Valyti paskiausius dokumentus"
 
 #: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:99
 msgid ""
@@ -1187,14 +1194,17 @@ msgid ""
 "• All items from the Places → Recent Documents menu item.\n"
 "• All items from the recent documents list in all applications."
 msgstr ""
+"Jei išvalysite paskutiniuosius dokumentus, jūs išvalysite:\n"
+"• Visus elementus iš Vietos → Paskutinieji dokumentai.\n"
+"• Visus elementus iš visų programų paskutiniųjų dokumentų sąrašų."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:76
 msgid "L_ock Screen"
-msgstr ""
+msgstr "Užrakinti ekraną"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:80
 msgid "_Log Out..."
-msgstr ""
+msgstr "_Atsijungti..."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:81
 msgid "Log Out"
@@ -1209,15 +1219,15 @@ msgstr ""
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:87
 msgid "_Suspend"
-msgstr ""
+msgstr "Užmigdyti"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:92
 msgid "_Hibernate"
-msgstr ""
+msgstr "Hibernuoti"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:97
 msgid "_Restart..."
-msgstr ""
+msgstr "_Paleisti iš naujo..."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:98
 msgid "Restart"
@@ -1230,7 +1240,7 @@ msgstr ""
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:104
 msgid "Shut _Down..."
-msgstr ""
+msgstr "Išjungti"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:105
 msgid "Shut Down"
@@ -1244,7 +1254,7 @@ msgstr "Ar tikrai norite uždaryti visas programas ir išjungti kompiuterį?"
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:86
 #, csharp-format
 msgid "A timer set for {0} has expired."
-msgstr ""
+msgstr "Laikmatis nustatytas {0} baigėsi."
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:242
 msgid "Time remaining:"
@@ -1252,32 +1262,32 @@ msgstr "Liko laiko:"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:244
 msgid "Timer paused, time remaining:"
-msgstr ""
+msgstr "Laikmatis pristabdytas, likęs laikas:"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:255
 msgid "Set the timer's label to:"
-msgstr ""
+msgstr "Nustatyti laikmačio etiketę į:"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:261
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:299
 msgid "_Set Label"
-msgstr ""
+msgstr "_Nustatyti pavadinimą"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:286
 msgid "_Pause Timer"
-msgstr ""
+msgstr "_Pristabdyti laikmatį"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:286
 msgid "_Start Timer"
-msgstr ""
+msgstr "_Paleisti laikmatį"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:290
 msgid "R_eset Timer"
-msgstr ""
+msgstr "A_tstatyti laikmatį"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:294
 msgid "_Remove Timer"
-msgstr ""
+msgstr "P_ašalinti laikmatį"
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:57
 msgid "hour"
@@ -1303,34 +1313,35 @@ msgstr[2] "sekundžių"
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:145
 #, csharp-format
 msgid "Click to create a timer for {0}."
-msgstr ""
+msgstr "Spustelėkite norėdami sukurti laikmatį {0}."
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:162
 msgid "Automatically _Start Timers"
-msgstr ""
+msgstr "Automatiškai P_radėti laikmačius"
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:166
 msgid "Automatically _Dismiss Timers"
-msgstr ""
+msgstr "Automatiškai _Pašalinti laikmačius"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:55
 msgid "Drop to move to Trash"
-msgstr ""
+msgstr "Meskite, kad perkelti į šiukšlinę"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:82
 msgid "No items in Trash"
-msgstr ""
+msgstr "Šiukšlinė tuščia"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:84
 #, csharp-format
 msgid "{0} item in Trash"
 msgid_plural "{0} items in Trash"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} elementas šiukšlinėje"
+msgstr[1] "{0} elementai šiukšlinėje"
+msgstr[2] "{0} elementų šiukšlinėje"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:169
 msgid "Restore Files"
-msgstr ""
+msgstr "Atstatyti failus"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:201
 msgid "_Open Trash"
@@ -1351,14 +1362,17 @@ msgid ""
 "will be permanently lost. Please note that you\n"
 "can also delete them separately."
 msgstr ""
+"Jei pasirinksite išvalyti šiukšlinę, visi elementai joje\n"
+"bus prarasti negrįžtamai. Žinokite, kad taip pat galite\n"
+"ištrinti elementus atskirai po vieną."
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:65
 msgid "_Weather Provider:"
-msgstr ""
+msgstr "_Duomenų tiekėjas:"
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:105
 msgid "My _Locations"
-msgstr ""
+msgstr "Mano _vietos"
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:136
 msgid "_Search"
@@ -1366,21 +1380,23 @@ msgstr "_Ieškoti"
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:176
 msgid "Automatically Update _Every"
-msgstr ""
+msgstr "Automatiškai atnaujinti _kas"
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:220
 msgid "Use _Metric Units"
-msgstr ""
+msgstr "Naudoti _metrinę sistemą"
 
 #: ../StandardPlugins/Weather/src/Sources/AbstractWeatherSource.cs:170
 msgid "Invalid Weather Location"
-msgstr ""
+msgstr "Netinkanti orų vieta"
 
 #: ../StandardPlugins/Weather/src/Sources/GoogleWeatherSource.cs:55
 msgid ""
 "Weather data provided by Google.  This source requires locations to be "
 "specified as US Zip Code or 'City, Country'."
 msgstr ""
+"Duomenis teikia Google. Šaltinis reikalauja, kad vieta būtų apibūdinta "
+"kaip US Zip Kodas ar 'Miestas, Šalis'."
 
 #: ../StandardPlugins/Weather/src/Sources/WeatherChannelWeatherSource.cs:60
 msgid ""
@@ -1389,12 +1405,20 @@ msgid ""
 "website.  To find your code, look up your forecast on their site and the "
 "code is in the URL after '/local/' and looks like AAXX0000."
 msgstr ""
+"Duomenis (Apsaugoti autorinėmis teisėmis) teikia The Weather Channel. "
+"Šaltinis reikalauja, kad vieta būtų apibūdinta kaip US Zip Kodas arba "
+"unikaliu kodu iš svetainės. Kad rasti jūsų kodą, pažiūrėkite "
+"prognozę jų puslapyje ir kodas bus URL po '/local/' ir atrodo panašiai "
+"AAXX0000."
 
 #: ../StandardPlugins/Weather/src/Sources/WunderWeatherSource.cs:56
 msgid ""
 "Weather data provided by and copyright Weather Underground.  This source "
 "requires locations to be specified as US Zip Code or 'City, Country'."
 msgstr ""
+"Duomenis (Apsaugoti autorinėmis teisėmis) teikia Weather Underground. "
+"Šaltinis reikalauja, kad vieta būtų apibūdinta kaip US Zip Kodas ar "
+"'Miestas, Šalis'."
 
 #: ../StandardPlugins/Weather/src/WeatherConfig.cs:90
 msgid "No results found."
@@ -1406,15 +1430,15 @@ msgstr "Orų prognozės konfigūracija"
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:80
 msgid "Click to add a location."
-msgstr ""
+msgstr "Spustelėkite norėdami pridėti vietą."
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:90
 msgid "Fetching data..."
-msgstr ""
+msgstr "Gaunami duomenys..."
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:231
 msgid "Radar _Map"
-msgstr ""
+msgstr "Vieta Žemėlapyje"
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:236
 msgid "Forecasts"
@@ -1422,7 +1446,7 @@ msgstr "Orų prognozės"
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:252
 msgid "Check _Weather"
-msgstr ""
+msgstr "Tikrinti orus"
 
 #: ../StandardPlugins/Weather/src/WeatherForecast.cs:108
 msgid "_Today"
@@ -1437,20 +1461,20 @@ msgstr "_Rytoj"
 #: ../StandardPlugins/Weather/src/WeatherPainter.cs:496
 #, csharp-format
 msgid "{0} humidity"
-msgstr ""
+msgstr "{0} drėgnumas"
 
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:71
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:221
 msgid "Switch Desks"
-msgstr ""
+msgstr "Perjungti darbalaukius"
 
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:172
 msgid "Desk"
-msgstr ""
+msgstr "Lenta"
 
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:174
 msgid "Virtual Desk"
-msgstr ""
+msgstr "Virtuali lenta"
 
 #~ msgid "Open"
 #~ msgstr "Atverti"

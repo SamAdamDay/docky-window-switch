@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || "
 "n%100==4 ? 3 : 0);\n"
-"X-Launchpad-Export-Date: 2011-03-05 16:33+0000\n"
-"X-Generator: Launchpad (build 12515)\n"
+"X-Launchpad-Export-Date: 2011-03-10 11:01+0000\n"
+"X-Generator: Launchpad (build 12559)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
@@ -25,11 +25,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
-msgstr ""
+msgstr "Seznam vstavkov, ki so dejavni na tem sidrišču"
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
-msgstr ""
+msgstr "Izgled analogne ure"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:4
 msgid "Currently selected item"
-msgstr ""
+msgstr "Trenutno izbrani predmet"
 
 #: ../data/docky.schemas.in.h:5
 msgid "Dismiss a stopped timer when clicked"
@@ -53,7 +53,7 @@ msgstr "Velikost ikon"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "Sidrišče je 3D"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:11
 msgid "Dock's hiding mode"
-msgstr ""
+msgstr "Način skrivanja sidrišča"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:17
 msgid "GMail username"
-msgstr ""
+msgstr "Uporabniško ime GMail"
 
 #: ../data/docky.schemas.in.h:18
 msgid ""
@@ -125,7 +125,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:25
 msgid "How often to check for new weather information."
-msgstr ""
+msgstr "Kako pogosto se bo preverjalo o novih podrobnostih vremena."
 
 #: ../data/docky.schemas.in.h:26
 msgid "How often to poll (in ms) for new clipboard data."
@@ -160,12 +160,13 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:32
 msgid "If the dock is a panel"
-msgstr ""
+msgstr "Če je sidrišče pult"
 
 #: ../data/docky.schemas.in.h:33
 msgid ""
 "If true, Docky will only show windows on the currently active desktop."
 msgstr ""
+"Če označeno, bo Docky prikazoval samo okna na trenutno dejavnem namizju."
 
 #: ../data/docky.schemas.in.h:34
 msgid "If true, all new timers will automatically start."
