@@ -1,5 +1,23 @@
 Docky: The finest dock no money can buy!
 
+2.1.1 "Just do your things" (2011-03-10)
+===============================================================================
+ * Bug-fix and Maintenance Release
+ * update translations
+
+ CORE:
+ * clamping values coming in from gconf
+ * drop global autostart default (LP: #670939)
+ * make sure our launcher shows up by default
+ * fix dock dim animation on external drags (LP: #727645)
+ * fix tooltips showing wrong on external drags
+ * fix crash if 'poof.png' is missing
+ * try to trap crashes coming from libnotify (LP: #678426)
+ * fix crash when emptying trash and cant access a file (LP: #717875)
+ * tweak the item message rendering a bit
+ * slightly zoom icons during drag (LP: #707658)
+
+
 2.1.0 "This is it" (2011-02-10)
 ===============================================================================
  * New Feature Release
