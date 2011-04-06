@@ -15,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2011-03-05 16:32+0000\n"
-"X-Generator: Launchpad (build 12515)\n"
+"X-Launchpad-Export-Date: 2011-04-06 16:57+0000\n"
+"X-Generator: Launchpad (build 12735)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr "Ücretsiz alabileceğiniz en iyi rıhtım."
+msgstr ""
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
@@ -28,7 +28,7 @@ msgstr "Listedeki eklentiler bu rıhtım üzerinde etkin durumdadır."
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
-msgstr "Analog Saat Teması"
+msgstr "Analog saat teması"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
@@ -164,12 +164,12 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:32
 msgid "If the dock is a panel"
-msgstr "Eğer rıhtım bir panel ise."
+msgstr ""
 
 #: ../data/docky.schemas.in.h:33
 msgid ""
 "If true, Docky will only show windows on the currently active desktop."
-msgstr "Eğer doğruysa, Docky sadece şu an etkin masaüstü'nü gösterecek."
+msgstr "Doğruysa, Rıhtım sadece şu an etkin masaüstünü gösterecek."
 
 #: ../data/docky.schemas.in.h:34
 msgid "If true, all new timers will automatically start."
@@ -211,7 +211,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:42
 msgid "If true, shows time in 24-hr format."
-msgstr ""
+msgstr "Doğruysa, zamanı 24-sa biçiminde gösterir."
 
 #: ../data/docky.schemas.in.h:43
 msgid "If true, the Docky item popup menu shows the Quit option."
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:50
 msgid "If true, timers will disappear when they time out."
-msgstr ""
+msgstr "Doğruysa, zamanlayıcı zaman aşımına uğradığında kaybolacak."
 
 #: ../data/docky.schemas.in.h:51
 msgid ""
@@ -287,7 +287,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:59
 msgid "List of active docks"
-msgstr "Etkin rıhtım'ların listesi"
+msgstr "Etkin rıhtımların listesi"
 
 #: ../data/docky.schemas.in.h:60
 msgid "List of custom GMail labels to check in addition to the inbox."
@@ -295,23 +295,23 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:61
 msgid "List of launchers"
-msgstr ""
+msgstr "Başlatıcılar listesi"
 
 #: ../data/docky.schemas.in.h:62
 msgid "Max Entries"
-msgstr ""
+msgstr "En Fazla Girdi Sayısı"
 
 #: ../data/docky.schemas.in.h:63
 msgid "NPR stations"
-msgstr ""
+msgstr "Ulusal radyo istasyonları"
 
 #: ../data/docky.schemas.in.h:64
 msgid "New timer length"
-msgstr ""
+msgstr "Yeni zamanlayıcı uzunluğu"
 
 #: ../data/docky.schemas.in.h:65
 msgid "Number of recent docs"
-msgstr ""
+msgstr "Son kullanılan belgelerin sayısı"
 
 #: ../data/docky.schemas.in.h:66
 msgid "Opacity to fade to"
@@ -319,7 +319,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:67
 msgid "Plugins on this dock"
-msgstr ""
+msgstr "Bu rıhtımdaki eklentiler"
 
 #: ../data/docky.schemas.in.h:68
 msgid "Prevent adding items by drops"
@@ -443,19 +443,19 @@ msgstr "Denetim için hava durumu konumları listesi."
 
 #: ../data/docky.schemas.in.h:96
 msgid "The name of the current Docky theme."
-msgstr ""
+msgstr "Şu anki Docky temasının adı."
 
 #: ../data/docky.schemas.in.h:97
 msgid "The name of the weather source to get weather information from."
-msgstr ""
+msgstr "Hava durumu bilgisinin alınacağı hava durumu kaynağının adı."
 
 #: ../data/docky.schemas.in.h:98
 msgid "The number of most recent documents to show."
-msgstr ""
+msgstr "Gösterilecek en son kullanılan belgelerin sayısı."
 
 #: ../data/docky.schemas.in.h:99
 msgid "The size of icons on the dock."
-msgstr ""
+msgstr "Rıhtımdaki simgelerin boyutu."
 
 #: ../data/docky.schemas.in.h:100
 msgid "The text to show when hovering the Docky item."
@@ -463,19 +463,19 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:101
 msgid "The theme for the analog clock."
-msgstr ""
+msgstr "Analog saat teması."
 
 #: ../data/docky.schemas.in.h:102
 msgid "The weather source"
-msgstr ""
+msgstr "Hava durumu kaynağı"
 
 #: ../data/docky.schemas.in.h:103
 msgid "This is the list of all the launchers on this dock."
-msgstr ""
+msgstr "Bu rıhtımdaki tüm başlatıcıların listesidir."
 
 #: ../data/docky.schemas.in.h:104
 msgid "This is the monitor the dock exists on."
-msgstr ""
+msgstr "Rıhtımın üzerinde durduğu monitördür."
 
 #: ../data/docky.schemas.in.h:105
 msgid ""

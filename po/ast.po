@@ -15,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-03-05 16:32+0000\n"
-"X-Generator: Launchpad (build 12515)\n"
+"X-Launchpad-Export-Date: 2011-04-06 16:57+0000\n"
+"X-Generator: Launchpad (build 12735)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "El meyor dock que nengún dineru pue mercar."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "¡Nun cambies esto!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"

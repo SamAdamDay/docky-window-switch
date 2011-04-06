@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: docky\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-03-05 17:21+0100\n"
-"PO-Revision-Date: 2010-08-07 05:15+0000\n"
-"Last-Translator: Paco Molinero <paco@byasl.com>\n"
+"PO-Revision-Date: 2011-03-20 22:19+0000\n"
+"Last-Translator: Fitoschido <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-03-10 11:01+0000\n"
-"X-Generator: Launchpad (build 12559)\n"
+"X-Launchpad-Export-Date: 2011-04-06 16:57+0000\n"
+"X-Generator: Launchpad (build 12735)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
@@ -104,7 +104,7 @@ msgstr "Cuánto esperar (ms) antes de volver a mostrar"
 
 #: ../data/docky.schemas.in.h:20
 msgid "How long to wait (ms) to update after a window switch"
-msgstr "Cuánto esperar (ms) para actualizar luego de un cambio de ventana"
+msgstr "Cuánto esperar (ms) para actualizar luego de cambiar de ventana"
 
 #: ../data/docky.schemas.in.h:21
 msgid "How many recent clipboard selections to show."
@@ -120,7 +120,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:23
 msgid "How often (in mins) to check for new mail."
-msgstr "Frecuencia (en minutos) para revisar si existe correo nuevo"
+msgstr "Frecuencia (en minutos) para revisar si existe correo nuevo."
 
 #: ../data/docky.schemas.in.h:24
 msgid "How often to check"
@@ -155,7 +155,7 @@ msgstr ""
 msgid "If false, finished timers will reset instead of dismiss."
 msgstr ""
 "Sí se desactiva, los contadores detenidos se reiniciarán en vez de ser "
-"descartados"
+"descartados."
 
 #: ../data/docky.schemas.in.h:30
 msgid ""

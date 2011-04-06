@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: docky\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-03-05 17:21+0100\n"
-"PO-Revision-Date: 2010-12-21 16:37+0000\n"
-"Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
+"PO-Revision-Date: 2011-03-23 18:51+0000\n"
+"Last-Translator: Sasa Batistic <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || "
 "n%100==4 ? 3 : 0);\n"
-"X-Launchpad-Export-Date: 2011-03-10 11:01+0000\n"
-"X-Generator: Launchpad (build 12559)\n"
+"X-Launchpad-Export-Date: 2011-04-06 16:57+0000\n"
+"X-Generator: Launchpad (build 12735)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "Najboljše sidrišče, ki ga ne more kupiti noben denar."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
@@ -33,7 +33,7 @@ msgstr "Izgled analogne ure"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
-msgstr ""
+msgstr "Počitsti dokončane časovnike"
 
 #: ../data/docky.schemas.in.h:4
 msgid "Currently selected item"
@@ -57,7 +57,7 @@ msgstr "Sidrišče je 3D"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
-msgstr ""
+msgstr "Sidrišče upravlja z vsemi okni"
 
 #: ../data/docky.schemas.in.h:10
 msgid "Dock zooms"
@@ -69,7 +69,7 @@ msgstr "Način skrivanja sidrišča"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
-msgstr ""
+msgstr "Ukaz predmeta sidrišča"
 
 #: ../data/docky.schemas.in.h:13
 msgid "Docky item hover text"
@@ -121,7 +121,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:24
 msgid "How often to check"
-msgstr ""
+msgstr "Kako pogosto se bo preverjalo"
 
 #: ../data/docky.schemas.in.h:25
 msgid "How often to check for new weather information."
@@ -129,7 +129,7 @@ msgstr "Kako pogosto se bo preverjalo o novih podrobnostih vremena."
 
 #: ../data/docky.schemas.in.h:26
 msgid "How often to poll (in ms) for new clipboard data."
-msgstr ""
+msgstr "Kako pogosto preveriti za nove podatke na odložišču (v ms)."
 
 #: ../data/docky.schemas.in.h:27
 msgid ""
@@ -183,6 +183,8 @@ msgid ""
 "If true, items with more than one window have two indicator dots instead of "
 "just one dot."
 msgstr ""
+"Če drži, bodo predmeti z več kot enim oknom imeli dve opozorilni piki "
+"namesto ene."
 
 #: ../data/docky.schemas.in.h:37
 msgid "If true, locks all items on all docks so they can't be dragged."
