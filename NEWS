@@ -1,5 +1,19 @@
 Docky: The finest dock no money can buy!
 
+2.1.2 "Docks love Mono" (2011-04-06)
+===============================================================================
+ * Bug-fix and Maintenance Release
+ * update translations
+
+ CORE:
+ * fix drawing with mono 2.10+
+ * fix problem with curtain when struts are set
+ * fix crash when drag/droping onto docky and nautilus isnt drawing desktop
+   (LP: #574817)
+ * fix nm docklet crashing docky on startup if nm isnt running (LP: #738955)
+ * fix item-drop at the first place (LP: #708772)
+
+
 2.1.1 "Just do your things" (2011-03-10)
 ===============================================================================
  * Bug-fix and Maintenance Release
