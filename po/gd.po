@@ -1,21 +1,21 @@
-# Faroese translation for docky
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# Gaelic; Scottish translation for docky
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
 # This file is distributed under the same license as the docky package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: docky\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-03-05 17:21+0100\n"
-"PO-Revision-Date: 2010-08-06 18:00+0000\n"
-"Last-Translator: Gunleif Joensen <Unknown>\n"
-"Language-Team: Faroese <fo@li.org>\n"
+"PO-Revision-Date: 2011-07-14 18:08+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Gaelic; Scottish <gd@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-08-26 16:56+0000\n"
+"Plural-Forms: nplurals=3; plural=n < 2 ? 0 : n == 2 ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-08-26 16:57+0000\n"
 "X-Generator: Launchpad (build 13794)\n"
 
 #: ../data/docky.desktop.in.h:1
@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "Na atharraich seo!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "Tha an Doca 3d"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
@@ -60,11 +60,11 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:10
 msgid "Dock zooms"
-msgstr ""
+msgstr "Doca sùmannan"
 
 #: ../data/docky.schemas.in.h:11
 msgid "Dock's hiding mode"
-msgstr ""
+msgstr "Modh falaich Docannan"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:18
 msgid "GMail username"
-msgstr ""
+msgstr "GMail ainm-cleachdaiche"
 
 #: ../data/docky.schemas.in.h:20
 msgid ""
@@ -346,7 +346,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:81
 msgid "Show date"
-msgstr ""
+msgstr "Foillsich deat"
 
 #: ../data/docky.schemas.in.h:82
 msgid "Show hover text labels for launchers"
@@ -362,7 +362,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:85
 msgid "Show the Docky item"
-msgstr ""
+msgstr "Foillsich an nì Docky"
 
 #: ../data/docky.schemas.in.h:86
 msgid "Show the digital clock"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:120
 msgid "Use 24-hr time"
-msgstr ""
+msgstr "Cleachd àm 24-ur"
 
 #: ../data/docky.schemas.in.h:121
 msgid "Use metric units"
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../Docky/Docky/ConfigurationWindow.cs:287
 msgid "Search Helpers..."
-msgstr "Leitingarhjálparir..."
+msgstr ""
 
 #: ../Docky/Docky/ConfigurationWindow.cs:364
 msgid "Click on any dock to configure."
@@ -548,7 +548,7 @@ msgstr ""
 
 #: ../Docky/Docky/ConfigurationWindow.cs:458
 msgid "Delete the currently selected dock?"
-msgstr "Strika tí valdu dokkina?"
+msgstr ""
 
 #: ../Docky/Docky/ConfigurationWindow.cs:460
 msgid ""
@@ -559,12 +559,12 @@ msgstr ""
 #: ../Docky/Docky/ConfigurationWindow.cs:467
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:457
 msgid "_Delete Dock"
-msgstr "Strika _dokk"
+msgstr ""
 
 #: ../Docky/Docky/ConfigurationWindow.cs:583
 #: ../Docky/Docky/ConfigurationWindow.cs:603
 msgid "_Select"
-msgstr "_Vel"
+msgstr "_Tagh"
 
 #: ../Docky/Docky/ConfigurationWindow.cs:586
 #: ../Docky/Docky/ConfigurationWindow.cs:606
@@ -573,7 +573,7 @@ msgstr ""
 
 #: ../Docky/Docky/DockletTile.cs:49
 msgid "Author"
-msgstr "Høvundi"
+msgstr "Ùghdar"
 
 #: ../Docky/Docky/DockletTile.cs:84
 msgid "Move this docklet up on the selected dock"
@@ -615,31 +615,31 @@ msgstr ""
 
 #: ../Docky/Docky/HelperTile.cs:42
 msgid "Status"
-msgstr "Standur"
+msgstr "Inbhe"
 
 #: ../Docky/Docky/HelperTile.cs:59
 msgid "Uninstall"
-msgstr ""
+msgstr "Dì-stàlaich"
 
 #: ../Docky/Docky/HelperTile.cs:71
 msgid "About this helper"
-msgstr "Um hendan hjálparan"
+msgstr ""
 
 #: ../Docky/Docky/HelperTile.cs:72
 msgid "Enable this helper"
-msgstr "Virkja hendan hjálparan"
+msgstr ""
 
 #: ../Docky/Docky/HelperTile.cs:73
 msgid "Disable this helper"
-msgstr "Óvirkja hendan hjálparan"
+msgstr ""
 
 #: ../Docky/Docky/HelperTile.cs:90
 msgid "Running"
-msgstr "Koyrir"
+msgstr ""
 
 #: ../Docky/Docky/HelperTile.cs:90
 msgid "Stopped"
-msgstr "Stoppað"
+msgstr "Air sguir"
 
 #: ../Docky/Docky/Interface/DockPreferences.cs:345
 msgid ""
@@ -677,44 +677,44 @@ msgstr ""
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:227
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:244
 msgid "_Settings"
-msgstr ""
+msgstr "_Suidheachaidhean"
 
 #: ../Docky/Docky/Items/DockyItem.cs:133
 msgid "_About"
-msgstr "_Um"
+msgstr "_Mu dhèidhinn"
 
 #: ../Docky/Docky/Items/DockyItem.cs:134
 msgid "_Help"
-msgstr "_Hjálp"
+msgstr "_Taic"
 
 #: ../Docky/Docky/Items/DockyItem.cs:136
 msgid "_Quit Docky"
-msgstr "_Sløkk Docky"
+msgstr "_Fàg Docky"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:96
 msgid "Docky Settings"
-msgstr "Docky innstillingar"
+msgstr "Suidheachaidhean Docky"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:141
 msgid "_Start When User Logs In"
-msgstr "_Byrja tá ið brúkarin innritar"
+msgstr ""
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:157
 msgid "_Theme:"
-msgstr "_Tema:"
+msgstr "_Ùrlar:"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:188
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:344
 msgid "_Install"
-msgstr "_Legg inn"
+msgstr "_Stàladh"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:207
 msgid "<b>General Options</b>"
-msgstr "<b>Vanligir Kostir</b>"
+msgstr "<b>Roghainnean  Coitcheann</b>"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:227
 msgid "<b>Dock Configuration</b>"
-msgstr "<b>Dokk samanseting</b>"
+msgstr "<b>Rèiteachadh Doca</b>"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:241
 msgid "Docks"
@@ -723,17 +723,17 @@ msgstr ""
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:262
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:320
 msgid "All"
-msgstr "Alt"
+msgstr "Na h-uile"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:263
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:318
 msgid "Enabled"
-msgstr "Sligið til"
+msgstr "Dèan comasach"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:264
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:319
 msgid "Disabled"
-msgstr "Ógildað"
+msgstr "Neo-comasach"
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:296
 msgid "Docklets"
@@ -745,7 +745,7 @@ msgstr ""
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:375
 msgid "Helpers"
-msgstr "Hjálparir"
+msgstr ""
 
 #: ../Docky/gtk-gui/Docky.ConfigurationWindow.cs:430
 msgid "_New Dock"
@@ -753,11 +753,11 @@ msgstr ""
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:58
 msgid "None"
-msgstr "Einki"
+msgstr "Neoni"
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:59
 msgid "Autohide"
-msgstr "Sjálvfjal"
+msgstr ""
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:60
 msgid "Intellihide"
@@ -793,7 +793,7 @@ msgstr ""
 
 #: ../Docky/gtk-gui/Docky.Interface.DockPreferences.cs:185
 msgid "_Zoom:"
-msgstr "_Surra:"
+msgstr ""
 
 #: ../Docky.Items/Docky.Items/AbstractDockItem.cs:120
 #, csharp-format
@@ -802,13 +802,13 @@ msgstr ""
 
 #: ../Docky.Items/Docky.Items/ApplicationDockItem.cs:180
 msgid "New _Window"
-msgstr ""
+msgstr "Uinneag _Ùr"
 
 #: ../Docky.Items/Docky.Items/ApplicationDockItem.cs:182
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:267
 #: ../StandardPlugins/Mounter/src/MountItem.cs:108
 msgid "_Open"
-msgstr "Lat _upp"
+msgstr "_Fosgail"
 
 #: ../Docky.Items/Docky.Items/ColoredIconDockItem.cs:70
 msgid "_Reset Color"
@@ -838,15 +838,15 @@ msgstr ""
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:217
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:249
 msgid "Complete"
-msgstr "Fullgjørt"
+msgstr "Crìochnaich"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:227
 msgid "Moving"
-msgstr "Flyti"
+msgstr "Siùbhlach"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:233
 msgid "Copying"
-msgstr "Avriti"
+msgstr "Copaigeadh"
 
 #: ../Docky.Items/Docky.Items/FileDockItem.cs:268
 msgid "Open Containing _Folder"
@@ -862,7 +862,7 @@ msgstr ""
 
 #: ../Docky.Items/Docky.Items/WnckDockItem.cs:271
 msgid "_Restore"
-msgstr "Endu_rstovna"
+msgstr ""
 
 #: ../Docky.Items/Docky.Items/WnckDockItem.cs:274
 msgid "Mi_nimize"
@@ -870,7 +870,7 @@ msgstr ""
 
 #: ../Docky.Items/Docky.Items/WnckDockItem.cs:277
 msgid "_Close All"
-msgstr "Lat øll _aftur"
+msgstr ""
 
 #: ../Docky.Widgets/Docky.Widgets/AbstractLoginWidget.cs:43
 #, csharp-format
@@ -900,11 +900,11 @@ msgstr ""
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:87
 msgid "Password"
-msgstr "Atlát"
+msgstr "Facal-Faire"
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:108
 msgid "Username"
-msgstr "Brúkaranavn"
+msgstr "Ainm neach-cleachdaidh"
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:121
 msgid "<i>Verify and save account information</i>"
@@ -912,25 +912,27 @@ msgstr ""
 
 #: ../Docky.Widgets/gtk-gui/Docky.Widgets.AbstractLoginWidget.cs:178
 msgid "Don't have an account?"
-msgstr "Hevur tú onga kontu?"
+msgstr ""
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:98
 msgid "No Battery Found"
-msgstr "Einki battarí funni"
+msgstr ""
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:111
 #, csharp-format
 msgid "{0} hour"
 msgid_plural "{0} hours"
-msgstr[0] "{0} tími"
-msgstr[1] "{0} tímar"
+msgstr[0] "{0} uair"
+msgstr[1] "{0} uair"
+msgstr[2] "{0} uairean"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:113
 #, csharp-format
 msgid "{0} minute"
 msgid_plural "{0} minutes"
-msgstr[0] "{0} minuttur"
-msgstr[1] "{0} minuttir"
+msgstr[0] "{0} mionaid"
+msgstr[1] "{0} mionaid"
+msgstr[2] "{0} mionaidean"
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:115
 msgid "until charged "
@@ -938,15 +940,15 @@ msgstr ""
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:117
 msgid "remaining "
-msgstr "er eftir "
+msgstr "maireann "
 
 #: ../StandardPlugins/BatteryMonitor/src/BatteryMonitorAbstractItem.cs:154
 msgid "_Statistics"
-msgstr ""
+msgstr "_Staitistearachd"
 
 #: ../StandardPlugins/Bookmarks/src/BookmarksItemProvider.cs:85
 msgid "Computer"
-msgstr "Telda"
+msgstr "Coimpiutair"
 
 #: ../StandardPlugins/Clippy/src/ClippyItem.cs:88
 msgid "Clipboard is currently empty."
@@ -958,60 +960,60 @@ msgstr ""
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:437
 msgid "24-Hour _Clock"
-msgstr "24-tíma _klokka"
+msgstr ""
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:443
 msgid "Show _Date"
-msgstr "Sýn _dato"
+msgstr ""
 
 #: ../StandardPlugins/Clock/src/ClockDockItem.cs:449
 msgid "Select _Theme"
-msgstr "Vel _tema"
+msgstr ""
 
 #: ../StandardPlugins/Clock/src/ClockThemeSelector.cs:54
 msgid "Themes"
-msgstr "Temur"
+msgstr "Ùrlaran"
 
 #: ../StandardPlugins/Clock/src/ClockThemeSelector.cs:62
 msgid "Theme"
-msgstr "Tema"
+msgstr "Ùrlar"
 
 #: ../StandardPlugins/Desktop/src/DesktopActionsProvider.cs:57
 msgid "_Undo"
-msgstr ""
+msgstr "_Neo-dhèan"
 
 #: ../StandardPlugins/Desktop/src/ShowDesktopItem.cs:37
 msgid "_Show Desktop"
-msgstr ""
+msgstr "_Foillsich Bàrr-deasca"
 
 #: ../StandardPlugins/Desktop/src/TileDesktopItem.cs:38
 msgid "_Tile Desktop"
-msgstr ""
+msgstr "_Leacag Bàrr-deasca"
 
 #: ../StandardPlugins/Desktop/src/CascadeDesktopItem.cs:38
 msgid "_Cascade Desktop"
-msgstr ""
+msgstr "_Mar sglèatan Bàrr-deasca"
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:74
 msgid "_Add Label"
-msgstr "Legg spj_aldur til"
+msgstr ""
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:113
 msgid "Check e_very:"
-msgstr "Kanna h_vønn:"
+msgstr ""
 
 #: ../StandardPlugins/GMail/gtk-gui/GMail.GMailLabelConfig.cs:123
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:186
 msgid "minutes"
-msgstr "minuttir"
+msgstr "mionaidean"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:189
 msgid "Click to set username and password."
-msgstr "Klikk til at velja brúkaranavn og atlát."
+msgstr ""
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:246
 msgid "(no subject)"
-msgstr "(einki evni)"
+msgstr ""
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:260
 #, csharp-format
@@ -1021,30 +1023,30 @@ msgstr ""
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:264
 #, csharp-format
 msgid "From: {0}"
-msgstr "Úr: {0}"
+msgstr "Bhon: {0}"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:278
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:281
 msgid "Feed Error"
-msgstr ""
+msgstr "|Mearachd Inbhir"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:285
 msgid "Invalid Username"
-msgstr "Ógyldugt brúkaranavn"
+msgstr "Ainm-cleachdaiche mì-dhligheach"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:287
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:292
 #: ../StandardPlugins/Weather/src/Sources/AbstractWeatherSource.cs:173
 msgid "Network Error"
-msgstr "Netbrek"
+msgstr "Mearachd Lìonra"
 
 #: ../StandardPlugins/GMail/src/GMailAtom.cs:296
 msgid "General Error"
-msgstr ""
+msgstr "Mearachd Coitcheann"
 
 #: ../StandardPlugins/GMail/src/GMailConfigDialog.cs:30
 msgid "Gmail Configuration"
-msgstr ""
+msgstr "Rèiteachadh Gmail"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:95
 msgid "No unread mail"
@@ -1054,16 +1056,16 @@ msgstr ""
 #, csharp-format
 msgid "{0} unread message"
 msgid_plural "{0} unread messages"
-msgstr[0] "{0} ólisið boð"
-msgstr[1] "{0} Ólisin boð"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:119
 msgid "Checking mail..."
-msgstr "Kanni t-post..."
+msgstr "Sgrùdadh post..."
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:201
 msgid "_View "
-msgstr "_Vís "
+msgstr "_Seall "
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:206
 msgid "_Compose Mail"
@@ -1075,15 +1077,15 @@ msgstr ""
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:218
 msgid "New Mail"
-msgstr ""
+msgstr "Post Ùr"
 
 #: ../StandardPlugins/GMail/src/GMailDockItem.cs:236
 msgid "Check _Mail"
-msgstr ""
+msgstr "Sgrùd _Post"
 
 #: ../StandardPlugins/GMail/src/GMailLabelConfig.cs:36
 msgid "Labels"
-msgstr "Spjøldur"
+msgstr ""
 
 #: ../StandardPlugins/GMail/src/GMailLoginConfig.cs:37
 msgid "Gmail"
@@ -1091,37 +1093,37 @@ msgstr "Gmail"
 
 #: ../StandardPlugins/GMail/src/GMailLoginConfig.cs:41
 msgid "Login"
-msgstr "Innrita"
+msgstr "Log a-steach"
 
 #: ../StandardPlugins/GMail/src/GMailMenuItem.cs:31
 msgid "From: "
-msgstr "Frá: "
+msgstr "Bhon: "
 
 #: ../StandardPlugins/Mounter/src/MountItem.cs:111
 msgid "_Eject"
-msgstr ""
+msgstr "_Tilg a-mach"
 
 #: ../StandardPlugins/Mounter/src/MountItem.cs:111
 msgid "_Unmount"
-msgstr ""
+msgstr "_Ìochdarach"
 
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:53
 msgid "Network Manager"
-msgstr "Netumsiting"
+msgstr "Manaidsear Lìonra"
 
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:92
 msgid "Connecting..."
-msgstr "Sambindi..."
+msgstr "Ceangaltach..."
 
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:101
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:166
 msgid "Disconnected"
-msgstr "Loyst sambinding"
+msgstr "Geàrr ceangailte"
 
 #: ../StandardPlugins/NetworkManager/src/NetworkManagerDocklet.cs:110
 #, csharp-format
 msgid "Connected: {0}"
-msgstr ""
+msgstr "Ceangailte: {0}"
 
 #: ../StandardPlugins/NPR/gtk-gui/NPR.StationSearchWidget.cs:47
 msgid "My _Stations"
@@ -1129,7 +1131,7 @@ msgstr ""
 
 #: ../StandardPlugins/NPR/gtk-gui/NPR.StationSearchWidget.cs:78
 msgid "S_earch"
-msgstr ""
+msgstr "S_ireadh"
 
 #: ../StandardPlugins/NPR/src/Station.cs:72
 msgid "No stations found."
@@ -1150,7 +1152,7 @@ msgstr ""
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:111
 msgid "Home Page"
-msgstr "Heimasíða"
+msgstr "Duilleag Dhachaigh"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:118
 msgid "Program Schedule"
@@ -1158,15 +1160,15 @@ msgstr ""
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:125
 msgid "Donate"
-msgstr ""
+msgstr "Thoir tabhartas"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:132
 msgid "Live Streams"
-msgstr "Beinleiðis streymar"
+msgstr "Sruthan Beò"
 
 #: ../StandardPlugins/NPR/src/StationDockItem.cs:170
 msgid "Settings"
-msgstr "Instillingar"
+msgstr "Suidheachaidhean"
 
 #: ../StandardPlugins/RecentDocuments/src/RecentFilesProvider.cs:84
 msgid "_Clear Recent Documents..."
@@ -1189,20 +1191,22 @@ msgstr ""
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:76
 msgid "L_ock Screen"
-msgstr ""
+msgstr "G_lais Sgrìn"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:80
 msgid "_Log Out..."
-msgstr ""
+msgstr "_Log A-mach..."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:81
 msgid "Log Out"
-msgstr "Útrita"
+msgstr "Log a-mach"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:82
 msgid ""
 "Are you sure you want to close all programs and log out of the computer?"
 msgstr ""
+"Cinnteach gu bheil thu ag iarraidh dùnadh na prògraman gu lèir agus log a-"
+"mach don coimpiutair?"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:87
 msgid "_Suspend"
@@ -1214,28 +1218,32 @@ msgstr ""
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:97
 msgid "_Restart..."
-msgstr ""
+msgstr "_Ath-tòisich..."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:98
 msgid "Restart"
-msgstr "Endurbyrja"
+msgstr "Ath-tòisich"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:99
 msgid "Are you sure you want to close all programs and restart the computer?"
 msgstr ""
+"Cinnteach gu bheil thu ag iarraidh dùnadh na prògraman gu lèir agus  ath-"
+"thòiseachadh a' choimpiutair?"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:104
 msgid "Shut _Down..."
-msgstr ""
+msgstr "Dùin_Sìos..."
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:105
 msgid "Shut Down"
-msgstr "Sløkk"
+msgstr "Dùin sìos"
 
 #: ../StandardPlugins/SessionManager/src/SessionActionsProvider.cs:106
 msgid ""
 "Are you sure you want to close all programs and shut down the computer?"
 msgstr ""
+"Cinnteach gu bheil thu ag iarraidh dùnadh na prògraman gu lèir agus dùinadh "
+"sìos a' choimpiutair?"
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:86
 #, csharp-format
@@ -1244,7 +1252,7 @@ msgstr ""
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:242
 msgid "Time remaining:"
-msgstr "Tíð eftir:"
+msgstr ""
 
 #: ../StandardPlugins/Timer/src/TimerDockItem.cs:244
 msgid "Timer paused, time remaining:"
@@ -1278,20 +1286,23 @@ msgstr ""
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:57
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "tími"
-msgstr[1] "tímar"
+msgstr[0] "uair"
+msgstr[1] "uair"
+msgstr[2] "uairean"
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:61
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] "minuttur"
-msgstr[1] "minuttir"
+msgstr[0] "mionaid"
+msgstr[1] "mionaid"
+msgstr[2] "mionaidean"
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:66
 msgid "second"
 msgid_plural "seconds"
-msgstr[0] "sekund"
-msgstr[1] "sekund"
+msgstr[0] "diog"
+msgstr[1] "diog"
+msgstr[2] "diogan"
 
 #: ../StandardPlugins/Timer/src/TimerMainDockItem.cs:145
 #, csharp-format
@@ -1312,31 +1323,31 @@ msgstr ""
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:82
 msgid "No items in Trash"
-msgstr "Eingir liðir í ruskspannini"
+msgstr ""
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:84
 #, csharp-format
 msgid "{0} item in Trash"
 msgid_plural "{0} items in Trash"
-msgstr[0] "{0} liður í ruskspannini"
-msgstr[1] "{0} liðir í ruskspannini"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:169
 msgid "Restore Files"
-msgstr "Endurstovna fílur"
+msgstr ""
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:201
 msgid "_Open Trash"
-msgstr "Lat ruskspannina upp"
+msgstr "_Fosgail  Sgudal"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:203
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:234
 msgid "Empty _Trash"
-msgstr "Tøm ruskspannina"
+msgstr "Dùin_Sgudal"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:226
 msgid "Empty all of the items from the trash?"
-msgstr "Tøma allar liðirnir úr ruskspannini?"
+msgstr "Falamh na h-uile nithean bhon an sgudal?"
 
 #: ../StandardPlugins/Trash/src/TrashDockItem.cs:228
 msgid ""
@@ -1355,7 +1366,7 @@ msgstr ""
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:136
 msgid "_Search"
-msgstr "_Leita"
+msgstr "_Sireadh"
 
 #: ../StandardPlugins/Weather/gtk-gui/WeatherDocklet.WeatherConfig.cs:176
 msgid "Automatically Update _Every"
@@ -1391,11 +1402,11 @@ msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherConfig.cs:90
 msgid "No results found."
-msgstr "Eingi úrslit funnin."
+msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherConfigDialog.cs:34
 msgid "Weather Configuration"
-msgstr "Veður samanseting"
+msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:80
 msgid "Click to add a location."
@@ -1403,11 +1414,11 @@ msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:90
 msgid "Fetching data..."
-msgstr "Heinti dátur..."
+msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:231
 msgid "Radar _Map"
-msgstr "Radar _Kort"
+msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherDocklet.cs:236
 msgid "Forecasts"
@@ -1419,11 +1430,11 @@ msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherForecast.cs:108
 msgid "_Today"
-msgstr "Í _dag"
+msgstr ""
 
 #: ../StandardPlugins/Weather/src/WeatherForecast.cs:111
 msgid "T_omorrow"
-msgstr "Í m_orgin"
+msgstr ""
 
 #. draw humidity
 #: ../StandardPlugins/Weather/src/WeatherPainter.cs:410
@@ -1435,18 +1446,12 @@ msgstr ""
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:71
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:221
 msgid "Switch Desks"
-msgstr "Skift skriviborð"
+msgstr ""
 
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:172
 msgid "Desk"
-msgstr "Skriviborð"
+msgstr ""
 
 #: ../StandardPlugins/WorkspaceSwitcher/src/WorkspaceSwitcherDockItem.cs:174
 msgid "Virtual Desk"
-msgstr "Tykisligt skriviborð"
-
-#~ msgid "Reset Color"
-#~ msgstr "Tómstilla lit"
-
-#~ msgid "Open"
-#~ msgstr "Lat upp"
+msgstr ""
