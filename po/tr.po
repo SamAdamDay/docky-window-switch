@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2011-08-26 16:57+0000\n"
-"X-Generator: Launchpad (build 13794)\n"
+"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
@@ -203,7 +203,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:45
 msgid "If true, shows a notify message for new unread mail."
-msgstr ""
+msgstr "İşaretliyse, yeni okunmamış posta için bildirim mesajı gösterir."
 
 #: ../data/docky.schemas.in.h:46
 msgid "If true, shows the Docky item on the dock managing windows."

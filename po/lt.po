@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "(n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2011-08-26 16:56+0000\n"
-"X-Generator: Launchpad (build 13794)\n"
+"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
@@ -25,7 +25,7 @@ msgstr "Geriausias skydelis, neįpirkamas už jokius pinigus."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
-msgstr ""
+msgstr "Aktyvių skydelio įskiepių sąrašas."
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
@@ -41,7 +41,7 @@ msgstr "Dabar pasirinktas elementas"
 
 #: ../data/docky.schemas.in.h:5
 msgid "Dismiss a stopped timer when clicked"
-msgstr ""
+msgstr "Kai paspaudžiama pašalinti sustabdytą laikmatį"
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
@@ -69,11 +69,11 @@ msgstr "Skydelio slėpimosi veiksena"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
-msgstr ""
+msgstr "Skydelio elemento komanda kurią vykdyti"
 
 #: ../data/docky.schemas.in.h:13
 msgid "Docky item hover text"
-msgstr "Docky elemento „hover“ tekstas"
+msgstr "Skydelio elemento „hover“ tekstas"
 
 #: ../data/docky.schemas.in.h:14
 msgid "Docky item hue"
@@ -96,6 +96,8 @@ msgid ""
 "How long the urgent indicator glow animation is (in seconds), 0 to disable, "
 "or -1 for infinite."
 msgstr ""
+"Kiek bus rodoma svarbiojo rodiklio šviečianti animacija (sekundėmis), 0 "
+"išjungti, -1 amžinai."
 
 #: ../data/docky.schemas.in.h:21
 msgid "How long to wait (ms) before unhiding"
@@ -103,17 +105,19 @@ msgstr "Laukti (ms) iki pasirodymo"
 
 #: ../data/docky.schemas.in.h:22
 msgid "How long to wait (ms) to update after a window switch"
-msgstr ""
+msgstr "Po lango perjungimo, laukti (ms) tada atnaujinti"
 
 #: ../data/docky.schemas.in.h:23
 msgid "How many recent clipboard selections to show."
-msgstr ""
+msgstr "Kiek paskutiniųjų iškarpinės pasirinkimų rodyti."
 
 #: ../data/docky.schemas.in.h:24
 msgid ""
 "How much to shift the color of the urgent indicator. The value can be from -"
 "180 to 180."
 msgstr ""
+"Kiek keitalioti svarbaus rodiklio spalvą. Reikšmė gali būti tarp -180 iki "
+"180."
 
 #: ../data/docky.schemas.in.h:25
 msgid "How often (in mins) to check for new mail."
@@ -129,19 +133,23 @@ msgstr "Kaip dažnai tikrinti orų prognozės informaciją."
 
 #: ../data/docky.schemas.in.h:28
 msgid "How often to poll (in ms) for new clipboard data."
-msgstr ""
+msgstr "Kaip dažnai kreiptis (ms) naujų iškarpinės duomenų."
 
 #: ../data/docky.schemas.in.h:29
 msgid ""
 "If fading when hiding, this is the opacity the dock fades to. 1 is solid, 0 "
 "is invisible."
 msgstr ""
+"Jei blukinama kai slepiamasi, tai nepermatomumas iki kurio skydelis bluks. 1 "
+"yra nepermatomas, 0 nematomas."
 
 #: ../data/docky.schemas.in.h:30
 msgid ""
 "If false, Docky will not show hover texts for launchers (but still show for "
 "plugins)."
 msgstr ""
+"Jei ne, Docky nerodys, teksto užvedus pele, leistukam (įskiepiams vistiek "
+"rodys)"
 
 #: ../data/docky.schemas.in.h:31
 msgid "If false, finished timers will reset instead of dismiss."
@@ -441,11 +449,11 @@ msgstr "Dabartinės Docky temos pavadinimas."
 
 #: ../data/docky.schemas.in.h:103
 msgid "The name of the weather source to get weather information from."
-msgstr ""
+msgstr "Orų šaltinio pavadinimas, iš kurio bus gaunama informacija."
 
 #: ../data/docky.schemas.in.h:105
 msgid "The number of most recent documents to show."
-msgstr ""
+msgstr "Kiek bus rodoma paskutiniųjų dokumentų."
 
 #: ../data/docky.schemas.in.h:106
 msgid "The size of icons on the dock."
@@ -453,11 +461,11 @@ msgstr "Piktogramų dydis skydelyje"
 
 #: ../data/docky.schemas.in.h:107
 msgid "The text to show when hovering the Docky item."
-msgstr ""
+msgstr "Tekstas kuris bus rodomas užvedus žymeklį virš skydelio elemento."
 
 #: ../data/docky.schemas.in.h:108
 msgid "The theme for the analog clock."
-msgstr ""
+msgstr "Analoginio laikrodžio tema."
 
 #: ../data/docky.schemas.in.h:109
 msgid "The weather source"
@@ -465,27 +473,31 @@ msgstr "Orų šaltinis"
 
 #: ../data/docky.schemas.in.h:111
 msgid "This is the list of all the launchers on this dock."
-msgstr ""
+msgstr "Tai yra visų leistukų, esančių šiame skydelyje, sąrašas."
 
 #: ../data/docky.schemas.in.h:112
 msgid "This is the monitor the dock exists on."
-msgstr ""
+msgstr "Tai yra ekranas kuriame egzistuoja skydelis."
 
 #: ../data/docky.schemas.in.h:113
 msgid ""
 "This is the time (in milliseconds) to wait before unhiding a hidden dock "
 "when the cursor moves over it."
 msgstr ""
+"Kai žymeklis užeis virš paslėpto skydelio, bus laukiama (milisekundėmis) "
+"prieš padarant skydelį matomą."
 
 #: ../data/docky.schemas.in.h:114
 msgid ""
 "This is the time (in milliseconds) to wait to determine if a window switch "
 "causes a (un)hide."
 msgstr ""
+"Bus laukiama (milisekundėmis) kol bus nuspręsta ar lango perjungimas privers "
+"slėpti/rodyti."
 
 #: ../data/docky.schemas.in.h:115
 msgid "This lists all the currently active (displayed) docks, by name."
-msgstr ""
+msgstr "Čia rodomi visi įjungti(rodomi) skydeliai, surikiuoti pagal vardą."
 
 #: ../data/docky.schemas.in.h:116
 msgid "Timer Delay"
@@ -497,11 +509,11 @@ msgstr "Sekti pelės pažymėjimus"
 
 #: ../data/docky.schemas.in.h:118
 msgid "Urgent indicator color shift"
-msgstr ""
+msgstr "Svarbaus rodiklio spalvos kitimas"
 
 #: ../data/docky.schemas.in.h:119
 msgid "Urgent indicator glow animation time (in seconds)"
-msgstr ""
+msgstr "Svarbiojo rodiklio švietimo animacijos laikas (sekundėmis)"
 
 #: ../data/docky.schemas.in.h:120
 msgid "Use 24-hr time"
@@ -513,7 +525,7 @@ msgstr "Naudoti metrinę sistemą"
 
 #: ../data/docky.schemas.in.h:122
 msgid "Used to sort the items on the dock."
-msgstr ""
+msgstr "Naudojama rikiuoti elementams ant skydelio."
 
 #: ../data/docky.schemas.in.h:123
 msgid "Weather locations"
@@ -521,7 +533,7 @@ msgstr "Orų vietos"
 
 #: ../data/docky.schemas.in.h:124
 msgid "Which monitor the dock is on"
-msgstr ""
+msgstr "Kuriame ekrane yra skydelis"
 
 #: ../data/docky.schemas.in.h:125
 msgid "Zoom size"
@@ -545,7 +557,7 @@ msgstr "Veskite bet kurią įankių juosta, kad ją perkeltumėte."
 
 #: ../Docky/Docky/ConfigurationWindow.cs:386
 msgid "Helpers require DockManager be installed."
-msgstr ""
+msgstr "Pagalbininkams veikti turi būti įdiegta DockManager."
 
 #: ../Docky/Docky/ConfigurationWindow.cs:458
 msgid "Delete the currently selected dock?"

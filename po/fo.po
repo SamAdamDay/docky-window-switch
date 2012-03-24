@@ -15,28 +15,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-08-26 16:56+0000\n"
-"X-Generator: Launchpad (build 13794)\n"
+"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "Tann fínasti dokkurin eingir pengar kunnu keypa"
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
-msgstr ""
+msgstr "Ein listi av ístingum sum eru virkin á hesum dokki"
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
-msgstr ""
+msgstr "Samgildur klokku tema"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
-msgstr ""
+msgstr "Tómstilla lidnar tíðartakarar"
 
 #: ../data/docky.schemas.in.h:4
 msgid "Currently selected item"
-msgstr ""
+msgstr "núverandi valdi lutur"
 
 #: ../data/docky.schemas.in.h:5
 msgid "Dismiss a stopped timer when clicked"
@@ -44,27 +44,27 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "Ikki broyt hettar!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
-msgstr ""
+msgstr "Stødd á dokk ímynd"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "Dokk er 3d"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
-msgstr ""
+msgstr "Dokkin handferð øll vindeygu"
 
 #: ../data/docky.schemas.in.h:10
 msgid "Dock zooms"
-msgstr ""
+msgstr "Størrilsir av dokk"
 
 #: ../data/docky.schemas.in.h:11
 msgid "Dock's hiding mode"
-msgstr ""
+msgstr "Goymi hátturin hjá Dokk"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:21
 msgid "How long to wait (ms) before unhiding"
-msgstr ""
+msgstr "Hvussu nógv at bíða (ms) áðrenn dokkurin fer upp aftur"
 
 #: ../data/docky.schemas.in.h:22
 msgid "How long to wait (ms) to update after a window switch"
@@ -116,15 +116,15 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:25
 msgid "How often (in mins) to check for new mail."
-msgstr ""
+msgstr "Hvussu ofta (í min) at kann eftir nýggjum telduposti"
 
 #: ../data/docky.schemas.in.h:26
 msgid "How often to check"
-msgstr ""
+msgstr "Hvussu ofta at kanna"
 
 #: ../data/docky.schemas.in.h:27
 msgid "How often to check for new weather information."
-msgstr ""
+msgstr "Hvussu ofta at kanna eftir nýggjari veður kunning"
 
 #: ../data/docky.schemas.in.h:28
 msgid "How often to poll (in ms) for new clipboard data."

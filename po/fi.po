@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-08-26 16:56+0000\n"
-"X-Generator: Launchpad (build 13794)\n"
+"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
@@ -24,7 +24,7 @@ msgstr "\"Hienoin telakkasovellus mitä rahalla ei saa.\""
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
-msgstr ""
+msgstr "Lista liitännäisistä jotka ovat aktiivisia tässä telakassa."
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
@@ -32,15 +32,15 @@ msgstr "Analogisen kellon teema"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
-msgstr ""
+msgstr "Nollaa valmiit ajastimet"
 
 #: ../data/docky.schemas.in.h:4
 msgid "Currently selected item"
-msgstr ""
+msgstr "Valitut kohteet"
 
 #: ../data/docky.schemas.in.h:5
 msgid "Dismiss a stopped timer when clicked"
-msgstr ""
+msgstr "Poista pysäytetty ajastin klikkaamalla"
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
@@ -48,11 +48,11 @@ msgstr "Älä muuta tätä!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
-msgstr ""
+msgstr "Telakan kuvakkeiden koko"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "Telakka on 3d"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
@@ -68,7 +68,7 @@ msgstr "Telakan piilotustila"
 
 #: ../data/docky.schemas.in.h:12
 msgid "Docky item command to execute"
-msgstr ""
+msgstr "Docky pikakuvakkeen suoritettava komento"
 
 #: ../data/docky.schemas.in.h:13
 msgid "Docky item hover text"
@@ -159,12 +159,12 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:35
 msgid "If the dock is a panel"
-msgstr ""
+msgstr "Jos telakka on paneeli"
 
 #: ../data/docky.schemas.in.h:37
 msgid ""
 "If true, Docky will only show windows on the currently active desktop."
-msgstr ""
+msgstr "Näytä Docky vain aktiivisella työpöydällä."
 
 #: ../data/docky.schemas.in.h:38
 msgid "If true, all new timers will automatically start."
@@ -252,7 +252,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:57
 msgid "If true, use metric units when showing weather."
-msgstr ""
+msgstr "Käytä SI-jäjestelmää (ms) näytettäessä säätä."
 
 #: ../data/docky.schemas.in.h:58
 msgid ""
@@ -278,11 +278,11 @@ msgstr "Viimeksi tarkistettu"
 
 #: ../data/docky.schemas.in.h:64
 msgid "List of NPR stations to display."
-msgstr ""
+msgstr "Lista näytettävistä NPR-asemista."
 
 #: ../data/docky.schemas.in.h:65
 msgid "List of active docks"
-msgstr ""
+msgstr "Lista aktiivisista telakoista"
 
 #: ../data/docky.schemas.in.h:66
 msgid "List of custom GMail labels to check in addition to the inbox."
@@ -376,11 +376,11 @@ msgstr "Näytä ikkunat vain nykyisestä työtilasta"
 
 #: ../data/docky.schemas.in.h:88
 msgid "Sorts the items on the dock"
-msgstr ""
+msgstr "Telekan kohteet lajiteltu"
 
 #: ../data/docky.schemas.in.h:89
 msgid "Start all new timers"
-msgstr ""
+msgstr "Aloita kaikki uudet ajastimet"
 
 #: ../data/docky.schemas.in.h:90
 msgid "Stop items from dragging"
@@ -388,7 +388,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:91
 msgid "The GMail username to check."
-msgstr ""
+msgstr "Tarkistettava GMail-käyttäjätunnus."
 
 #: ../data/docky.schemas.in.h:92
 msgid ""
@@ -528,7 +528,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:125
 msgid "Zoom size"
-msgstr ""
+msgstr "Zoomauksen määrä"
 
 #: ../Docky/Docky/ConfigurationWindow.cs:270
 msgid "Search Docklets..."
