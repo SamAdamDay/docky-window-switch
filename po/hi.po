@@ -15,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-10-06 12:32+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr ""
+msgstr "बेहतरीन डॉक जिसॆ कोई पैसा नहीं में खरीद सकता हैं."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:2
 msgid "Analog clock theme"
-msgstr ""
+msgstr "एनालॉग घड़ी थीम"
 
 #: ../data/docky.schemas.in.h:3
 msgid "Clear finished timers"
@@ -44,19 +44,19 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:6
 msgid "Do not change this!"
-msgstr ""
+msgstr "इसॆ परिवर्तित न करॆं!"
 
 #: ../data/docky.schemas.in.h:7
 msgid "Dock icon size"
-msgstr ""
+msgstr "डॉक आइकन आकार"
 
 #: ../data/docky.schemas.in.h:8
 msgid "Dock is 3d"
-msgstr ""
+msgstr "डॉक 3डी है"
 
 #: ../data/docky.schemas.in.h:9
 msgid "Dock manages all windows"
-msgstr ""
+msgstr "डॉक सभी विंडोज़ को प्रबंधित करता हैं"
 
 #: ../data/docky.schemas.in.h:10
 msgid "Dock zooms"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: ../data/docky.schemas.in.h:18
 msgid "GMail username"
-msgstr ""
+msgstr "Gmail उपयोगकर्ता नाम"
 
 #: ../data/docky.schemas.in.h:20
 msgid ""

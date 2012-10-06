@@ -15,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2012-03-24 07:28+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-10-06 12:32+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #: ../data/docky.desktop.in.h:1
 msgid "The finest dock no money can buy."
-msgstr "Ücretsiz kullanabileceğiniz en iyi dock programı."
+msgstr "Ücretsiz kullanabileceğiniz en iyi rıhtım programı."
 
 #: ../data/docky.schemas.in.h:1
 msgid "A list of plugins that are active on this dock."
