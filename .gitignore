@@ -26,4 +26,4 @@ po/Makefile.in.in
 po/POTFILES
 po/stamp-it
 docky.schemas
-m4/intltool.m4
+intltool.m4
