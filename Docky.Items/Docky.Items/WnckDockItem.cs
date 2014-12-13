@@ -179,8 +179,9 @@ namespace Docky.Items
 			
 			State = state;
 		}
-		
-		protected override void OnScrolled (Gdk.ScrollDirection direction, Gdk.ModifierType mod)
+
+		// Cycle through the windows for an app, in either the forwards or backwards direction
+		void CycleWindows (bool forwards)
 		{
 			int count = ManagedWindows.Count ();
 			
@@ -196,13 +197,11 @@ namespace Docky.Items
 					if (ManagedWindows.ElementAt (last_raised).Pid == focused.Pid)
 						break;
 
-			switch (direction) {
-			case ScrollDirection.Up:
-			case ScrollDirection.Right:
+			switch (forwards) {
+			case true:
 				last_raised++;
 				break;
-			case ScrollDirection.Down:
-			case ScrollDirection.Left:
+			case false:
 				last_raised--;
 				break;
 			}
@@ -213,6 +212,20 @@ namespace Docky.Items
 				last_raised = 0;
 
 			ManagedWindows.ElementAt (last_raised).CenterAndFocusWindow ();
+		}
+		
+		protected override void OnScrolled (Gdk.ScrollDirection direction, Gdk.ModifierType mod)
+		{
+			switch (direction) {
+			case ScrollDirection.Up:
+			case ScrollDirection.Right:
+				CycleWindows(true);
+				break;
+			case ScrollDirection.Down:
+			case ScrollDirection.Left:
+				CycleWindows(false);
+				break;
+			}
 		}
 		
 		protected sealed override void OnSetScreenRegion (Gdk.Screen screen, Gdk.Rectangle region)
@@ -226,31 +239,8 @@ namespace Docky.Items
 			if (!ManagedWindows.Any () || button != 1)
 				return ClickAnimation.None;
 			
-			List<Wnck.Window> stack = new List<Wnck.Window> (Wnck.Screen.Default.WindowsStacked);
-			IEnumerable<Wnck.Window> windows = ManagedWindows.OrderByDescending (w => stack.IndexOf (w));
-			
-			bool not_in_viewport = !windows.Any (w => !w.IsSkipTasklist && w.IsInViewport (w.Screen.ActiveWorkspace));
-			bool urgent = windows.Any (w => w.NeedsAttention ());
-			
-			if (not_in_viewport || urgent) {
-				foreach (Wnck.Window window in windows) {
-					if (urgent && !window.NeedsAttention ())
-						continue;
-					
-					if (!window.IsSkipTasklist) {
-						WindowControl.IntelligentFocusOffViewportWindow (window, windows);
-						return ClickAnimation.Darken;
-					}
-				}
-			}
-			
-			if (windows.Any (w => w.IsMinimized && w.IsInViewport (Wnck.Screen.Default.ActiveWorkspace)))
-				WindowControl.RestoreWindows (windows);
-			else if (windows.Any (w => w.IsActive && w.IsInViewport (Wnck.Screen.Default.ActiveWorkspace))
-					|| Windows.Any (w => w == Wnck.Screen.Default.ActiveWindow))
-				WindowControl.MinimizeWindows (windows);
-			else
-				WindowControl.FocusWindows (windows);
+			// Clicking cycles through the windows!
+			CycleWindows(true);
 			
 			return ClickAnimation.Darken;
 		}
